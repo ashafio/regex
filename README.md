@@ -1,6 +1,6 @@
 # Java Regex
 
-A focused collection of Java programs exploring **Regular Expressions** using the `java.util.regex` package — covering pattern syntax, matching strategies, and practical validation use cases.
+A focused collection of Java programs exploring **Regular Expressions** using the `java.util.regex` package covering pattern syntax, matching strategies, and practical validation use cases.
 
 ---
 
